@@ -10,7 +10,6 @@
 
 ###Team
 
-* [Wall E ](https://github.com/walle010101/js-eng-status)
 * [Vasya](vvv)
 * [Masha](mmm)
 * [Sasha](sss)
